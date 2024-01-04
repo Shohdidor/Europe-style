@@ -1,0 +1,15 @@
+.Fon {
+    background-image: url("img/Rectangle 83.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    padding-bottom: 25px;
+}
+.Prozrach {
+    background-image: url("/img/Rectangle\ 81.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+}

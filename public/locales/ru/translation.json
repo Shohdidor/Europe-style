@@ -1,0 +1,34 @@
+{
+    "navbar.li1": "Продукты",
+    "navbar.li2": "Функции",
+    "navbar.li3": "Цены",
+    "navbar.li4": "Поддержка",
+    "sistema.h2" : "Системный интегратор мультимедийных решений",
+    "sistem.h1" : "внедрение мультимедийных решений для конференц залов",
+    "sistema.p" : "Комплексное оснащение конференц-залов, ситуационных центров, переговорных комнат, учебных центров и пр.",
+    "sistema.btn1" : "Обсудить проект",
+    "sistema.btn2" : "Поиск решений. Например: Переговорные",
+    "section1.span" : "как мы работаем",
+    "section1.h1" : "#4 простых шага от расчета до внедрения",
+    "section1.p" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+
+    "section1.h2" : "#4 простых шага от расчета до внедрения",
+    "section1.p2" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+
+    "section1.h3" : "#4 простых шага от расчета до внедрения",
+    "section1.p3" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+
+    "section1.h4" : "#4 простых шага от расчета до внедрения",
+    "section1.p4" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+
+    "section1.h5" : "#4 простых шага от расчета до внедрения",
+    "section1.p5" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+    "section1.h6" : "#4 простых шага от расчета до внедрения",
+    "section1.p6" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+    
+    "section2.span" : "для кого",
+    "section2.h1" : "#имеем готовые решения  для всех основных сфер производств",
+    "section2.p" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid at cumque amet atque sapiente quod nostrum perferendis cum? Cumque, sunt. Numquam eius saepe optio nesciunt minima maiores impedit distinctio sunt."
+
+
+}
